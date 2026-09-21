@@ -42,13 +42,21 @@ The project analyzes expenses such as:
 - Education
 
 Pandas is used for data processing and analysis, while Matplotlib is used to create visualizations.
-
 ## 📈 Visualizations
 
 The project includes:
 
-- Category-wise Expense Bar Chart
-- Expense Distribution Pie Chart
+* Category-wise Expense Bar Chart
+* Expense Distribution Pie Chart
+
+### 📊 Category-wise Expense Analysis
+
+![Bar Chart](./Screenshot%202026-09-21%20184842.png)
+
+### 🥧 Expense Distribution
+
+![Pie Chart](./Screenshot%202026-09-21%20185922.png)
+
 
 ## 📁 Project Files
 
